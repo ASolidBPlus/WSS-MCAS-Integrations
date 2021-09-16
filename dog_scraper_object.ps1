@@ -1,3 +1,4 @@
+# Created by - Joel Dellar
 # Access class that contains Dog Picture downloading logic
 class DogAccess {
     [string]$apiUrl
